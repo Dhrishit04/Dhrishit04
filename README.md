@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhrishit04
 - 👀 I’m interested in Python, C++
-- 🌱 I’m currently learning C++, Note.js, CSS
+- 🌱 I’m currently learning C++, Node.js, CSS
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Mail: sealdhrishit@gmail.com,
 - 📫 LinkedIN: https://www.linkedin.com/in/dhrishit-seal-b5a959251/
