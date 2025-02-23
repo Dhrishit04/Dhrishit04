@@ -11,9 +11,9 @@ When you add a README.md to that repository, it will appear on your GitHub profi
   </a>
 </p>
 
-<!-- Add the GIF below -->
+<!-- GIF below -->
 <p align="center">
-  <img src="E:\Downloads\20250224_0015_Futuristic Data Network_simple_compose_01jmt22cebf5r9x2k3mr6gasw6.gif" alt="3D Mesh GIF" width="600" />
+  <img src="20250224_0015_Futuristic Data Network_simple_compose_01jmt22cebf5r9x2k3mr6gasw6.gif" alt="3D Mesh GIF" width="600" />
 </p>
 
 <!--<div align="center">
