@@ -7,7 +7,7 @@ When you add a README.md to that repository, it will appear on your GitHub profi
 
 <p align="center">
   <a href="https://github.com/Dhrishit04?tab=repositories">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=09F7E3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Loves+Clean+and+Scalable+Code;Always+Learning+New+Things">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=09F7E3&center=true&vCenter=true&width=600&lines=Web+Developer;Machine+Learning+Enthusiast;Loves+Clean+Coding;Always+Learning+New+Things">
   </a>
 </p>
 
