@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js, Express.js and Java
 - 💞️ I’m looking to collaborate on Web Development and Machine Learning
 - 📫 Mail: sealdhrishit@gmail.com,
-- 📫 LinkedIN: https://www.linkedin.com/in/dhrishit-seal-b5a959251/
+
  
  
 
