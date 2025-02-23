@@ -11,6 +11,11 @@ When you add a README.md to that repository, it will appear on your GitHub profi
   </a>
 </p>
 
+<!-- Add the GIF below -->
+<p align="center">
+  <img src="E:\Downloads\20250224_0015_Futuristic Data Network_simple_compose_01jmt22cebf5r9x2k3mr6gasw6.gif" alt="3D Mesh GIF" width="600" />
+</p>
+
 <!--<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhrishit04&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
@@ -36,6 +41,11 @@ When you add a README.md to that repository, it will appear on your GitHub profi
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---
@@ -57,7 +67,9 @@ When you add a README.md to that repository, it will appear on your GitHub profi
 ### GitHub Stats
 
 <div align="center">
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=Dhrishit04&show_icons=true&theme=radical" alt="Dhrishit04's GitHub Stats" />
+  -->
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrishit04&theme=radical" alt="Dhrishit04's GitHub Streak" />
   <br/>
