@@ -7,14 +7,14 @@ When you add a README.md to that repository, it will appear on your GitHub profi
 
 <p align="center">
   <a href="https://github.com/Dhrishit04?tab=repositories">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=09F7E3&center=true&vCenter=true&width=600&lines=Web+Developer;Machine+Learning+Enthusiast;Loves+Clean+Coding;Always+Learning+New+Things">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=09F7E3&center=true&vCenter=true&width=600&lines=Web+Developer;Machine+Learning+Enthusiast;Loves+Coding;Always+Learning;Always+Growing">
   </a>
 </p>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhrishit04&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
+-->
 ---
 
 ### About Me
@@ -22,7 +22,7 @@ When you add a README.md to that repository, it will appear on your GitHub profi
 - 🌱 **Currently Learning:** Node.js, Express.js, Java  
 - 🔭 **Interested In:** Python, Java, Web Development, Machine Learning  
 - 🤝 **Looking to Collaborate On:** Projects involving Web Dev & ML  
-- 📫 **How to Reach Me:** [sadhrishit04@gmail.com](mailto:sadhrishit04@gmail.com)  
+- 📫 **How to Reach Me:** [sealdhrishit@gmail.com](mailto:sealdhrishit@gmail.com)  
 - ⚡ **Fun Fact:** You can always find me exploring new tech stacks.
 
 ---
@@ -43,7 +43,7 @@ When you add a README.md to that repository, it will appear on your GitHub profi
 ### Connect with Me
 
 <p>
-  <a href="mailto:sadhrishit04@gmail.com">
+  <a href="mailto:sealdhrishit@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/dhrishit-seal/" target="_blank">
