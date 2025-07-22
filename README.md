@@ -66,7 +66,7 @@ When you add a README.md to that repository, it will appear on your GitHub profi
   <img src="https://github-readme-stats.vercel.app/api?username=Dhrishit04&show_icons=true&theme=radical" alt="Dhrishit04's GitHub Stats" />
   -->
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrishit04&theme=radical" alt="Dhrishit04's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrishit04&theme=radical" alt="Dhrishit04's GitHub Streak"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhrishit04&layout=compact&theme=radical" alt="Top Languages" />
 </div>
