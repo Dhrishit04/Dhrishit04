@@ -16,7 +16,7 @@ lines = [
   ("prompt", "cat research.bib | head -1"),
   ("out",    "IEEE Xplore :: ViT vs CNN for retinal disease detection (CNV, DME, Drusen) on OCT"),
   ("prompt", "echo $STATUS"),
-  ("hl",     "open_to=[SDE, Backend, DevOps, AI-agents, collaborations]  ✔"),
+  ("hl",     "open_to=[SWE-intern, SDE-intern]  # MSc @ UCD, ping me  ✔"),
 ]
 W, LH, TOP, LEFT, CW = 860, 24, 64, 24, 8.6
 H = TOP + LH * len(lines) + 14

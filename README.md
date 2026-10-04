@@ -4,13 +4,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0D2137,100:00D9FF&height=220&section=header&text=Dhrishit%20Seal&fontSize=64&fontColor=00D9FF&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Distributed%20Systems&descAlignY=60&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&lines=Hey+there%2C+I'm+Dhrishit+Seal+%F0%9F%91%8B;MSc+CS+%40+University+College+Dublin+%F0%9F%87%AE%F0%9F%87%AA;Ex-SDE+Intern+%40+Nomura+%7C+Reliance;Backend+%2B+DevOps+%2B+AI+Agents;Spring+Boot+%7C+Microservices+%7C+Rust;Building+Things+That+Scale+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&lines=Hey+there%2C+I'm+Dhrishit+Seal+%F0%9F%91%8B;MSc+CS+%40+University+College+Dublin+%F0%9F%87%AE%F0%9F%87%AA;Ex-SDE+Intern+%40+Nomura+%7C+Reliance;Backend+%2B+DevOps+%2B+AI+Agents;Spring+Boot+%7C+Microservices+%7C+Rust;Open+to+SWE+%2F+SDE+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Dhrishit04&color=00d9ff&style=flat-square&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/Dhrishit04?label=FOLLOWERS&style=flat-square&color=A371F7&logo=github" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-27C93F?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-SWE%20%2F%20SDE%20INTERNSHIPS-27C93F?style=flat-square&logo=rocket&logoColor=white" />
 </p>
 
 </div>
@@ -37,7 +37,7 @@ const dhrishit: Developer = {
   interests:  ["Microservices", "Backend Systems", "DevOps", "AI Agents", "ML on Medical Imaging"],
   experience: ["SDE Intern @ Nomura Services India", "SDE Intern @ Reliance Industries"],
   published:  "IEEE Xplore — ViT vs CNN on OCT Scans",
-  openTo:     ["SDE Roles", "Backend Engineering", "DevOps", "Collaborations"],
+  openTo:     ["SWE / SDE Internships", "Backend", "DevOps", "Collaborations"],
 };
 ```
 
@@ -250,6 +250,8 @@ const dhrishit: Developer = {
 ## 📬 Connect
 
 <div align="center">
+
+**🎯 Currently looking for SWE / SDE internship roles. Let's talk!**
 
 <a href="https://www.linkedin.com/in/dhrishit-seal-b5a959251"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sealdhrishit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
