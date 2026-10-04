@@ -8,7 +8,7 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Dhrishit04&color=00d9ff&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FDhrishit04&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%2300D9FF&style=flat-square&labelStyle=upper" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Dhrishit04?label=FOLLOWERS&style=flat-square&color=A371F7&logo=github" />
   <img src="https://img.shields.io/badge/OPEN%20TO-SWE%20%2F%20SDE%20INTERNSHIPS%20%C2%B7%20MAY%202027%20%C2%B7%20REMOTE%20%7C%20ON--SITE%20DUBLIN%20%2F%20IRELAND-27C93F?style=flat-square&logo=rocket&logoColor=white" />
 </p>
