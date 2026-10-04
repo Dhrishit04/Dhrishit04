@@ -1,43 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="342" viewBox="0 0 860 342" role="img" aria-label="Animated terminal introducing Dhrishit Seal">
-<title>dhrishit@vit — zsh</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="366" viewBox="0 0 860 366" role="img" aria-label="Animated terminal introducing Dhrishit Seal">
+<title>dhrishit@ucd — zsh</title>
 <style>
 text{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;font-size:14px;white-space:pre}
 .glow{animation:glow 4s ease-in-out infinite}@keyframes glow{50%{stroke-opacity:.25}}
-.scan{animation:scan 6s linear infinite}@keyframes scan{from{transform:translateY(-40px)}to{transform:translateY(342px)}}
-.l0{animation:l0 22.0s steps(6) infinite}@keyframes l0{0%,2.73%{clip-path:inset(0 100% 0 0);opacity:1}3.95%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
-.l1{animation:l1 22.0s ease-out infinite}@keyframes l1{0%,5.09%{clip-path:inset(0 100% 0 0);opacity:0}6.68%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
-.l2{animation:l2 22.0s steps(18) infinite}@keyframes l2{0%,7.36%{clip-path:inset(0 100% 0 0);opacity:1}11.05%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
-.l3{animation:l3 22.0s ease-out infinite}@keyframes l3{0%,12.18%{clip-path:inset(0 100% 0 0);opacity:0}13.77%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
-.l4{animation:l4 22.0s ease-out infinite}@keyframes l4{0%,14.45%{clip-path:inset(0 100% 0 0);opacity:0}16.05%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
-.l5{animation:l5 22.0s steps(26) infinite}@keyframes l5{0%,16.73%{clip-path:inset(0 100% 0 0);opacity:1}22.05%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
-.l6{animation:l6 22.0s ease-out infinite}@keyframes l6{0%,23.18%{clip-path:inset(0 100% 0 0);opacity:0}24.77%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
-.l7{animation:l7 22.0s steps(21) infinite}@keyframes l7{0%,25.45%{clip-path:inset(0 100% 0 0);opacity:1}29.75%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
-.l8{animation:l8 22.0s ease-out infinite}@keyframes l8{0%,30.89%{clip-path:inset(0 100% 0 0);opacity:0}32.48%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
-.l9{animation:l9 22.0s steps(12) infinite}@keyframes l9{0%,33.16%{clip-path:inset(0 100% 0 0);opacity:1}35.61%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
-.l10{animation:l10 22.0s ease-out infinite}@keyframes l10{0%,36.75%{clip-path:inset(0 100% 0 0);opacity:0}38.34%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
-.cur{animation:blink 1s steps(1) infinite,show 22.0s linear infinite}@keyframes blink{50%{fill-opacity:0}}@keyframes show{0%,39.02%{opacity:0}39.12%,96%{opacity:1}100%{opacity:0}}
+.scan{animation:scan 6s linear infinite}@keyframes scan{from{transform:translateY(-40px)}to{transform:translateY(366px)}}
+.l0{animation:l0 24.0s steps(6) infinite}@keyframes l0{0%,2.50%{clip-path:inset(0 100% 0 0);opacity:1}3.62%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l1{animation:l1 24.0s ease-out infinite}@keyframes l1{0%,4.67%{clip-path:inset(0 100% 0 0);opacity:0}6.13%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l2{animation:l2 24.0s steps(17) infinite}@keyframes l2{0%,6.75%{clip-path:inset(0 100% 0 0);opacity:1}9.94%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l3{animation:l3 24.0s ease-out infinite}@keyframes l3{0%,10.98%{clip-path:inset(0 100% 0 0);opacity:0}12.44%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l4{animation:l4 24.0s ease-out infinite}@keyframes l4{0%,13.06%{clip-path:inset(0 100% 0 0);opacity:0}14.52%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l5{animation:l5 24.0s steps(18) infinite}@keyframes l5{0%,15.15%{clip-path:inset(0 100% 0 0);opacity:1}18.52%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l6{animation:l6 24.0s ease-out infinite}@keyframes l6{0%,19.56%{clip-path:inset(0 100% 0 0);opacity:0}21.02%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l7{animation:l7 24.0s ease-out infinite}@keyframes l7{0%,21.65%{clip-path:inset(0 100% 0 0);opacity:0}23.10%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l8{animation:l8 24.0s steps(26) infinite}@keyframes l8{0%,23.73%{clip-path:inset(0 100% 0 0);opacity:1}28.60%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l9{animation:l9 24.0s ease-out infinite}@keyframes l9{0%,29.65%{clip-path:inset(0 100% 0 0);opacity:0}31.10%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l10{animation:l10 24.0s steps(12) infinite}@keyframes l10{0%,31.73%{clip-path:inset(0 100% 0 0);opacity:1}33.98%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
+.l11{animation:l11 24.0s ease-out infinite}@keyframes l11{0%,35.02%{clip-path:inset(0 100% 0 0);opacity:0}36.48%,96%{clip-path:inset(0 0 0 0);opacity:1}100%{clip-path:inset(0 0 0 0);opacity:0}}
+.cur{animation:blink 1s steps(1) infinite,show 24.0s linear infinite}@keyframes blink{50%{fill-opacity:0}}@keyframes show{0%,37.10%{opacity:0}37.20%,96%{opacity:1}100%{opacity:0}}
 </style>
 <defs>
 <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00D9FF"/><stop offset="1" stop-color="#A371F7"/></linearGradient>
 <linearGradient id="sc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00D9FF" stop-opacity="0"/><stop offset=".5" stop-color="#00D9FF" stop-opacity=".06"/><stop offset="1" stop-color="#00D9FF" stop-opacity="0"/></linearGradient>
-<clipPath id="win"><rect x="1" y="1" width="858" height="340" rx="12"/></clipPath>
+<clipPath id="win"><rect x="1" y="1" width="858" height="364" rx="12"/></clipPath>
 </defs>
-<rect x="1" y="1" width="858" height="340" rx="12" fill="#0D1117"/>
-<rect class="glow" x="1" y="1" width="858" height="340" rx="12" fill="none" stroke="url(#bd)" stroke-width="2"/>
+<rect x="1" y="1" width="858" height="364" rx="12" fill="#0D1117"/>
+<rect class="glow" x="1" y="1" width="858" height="364" rx="12" fill="none" stroke="url(#bd)" stroke-width="2"/>
 <rect x="1" y="1" width="858" height="34" rx="12" fill="#161B22"/><rect x="1" y="24" width="858" height="11" fill="#161B22"/>
 <circle cx="22" cy="18" r="6" fill="#FF5F56"/><circle cx="42" cy="18" r="6" fill="#FFBD2E"/><circle cx="62" cy="18" r="6" fill="#27C93F"/>
-<text x="430.0" y="22" fill="#8B949E" text-anchor="middle" style="font-size:12px">dhrishit@vit: ~ — zsh</text>
-<text class="l0" x="24" y="64"><tspan fill="#FF7B72">dhrishit</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">vit</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#C9D1D9">whoami</tspan></text>
-<text class="l1" x="24" y="88" fill="#8B949E">dhrishit-seal :: final-year B.Tech CSE (Health Informatics) @ VIT Bhopal</text>
-<text class="l2" x="24" y="112"><tspan fill="#FF7B72">dhrishit</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">vit</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#C9D1D9">cat experience.log</tspan></text>
-<text class="l3" x="24" y="136" fill="#7EE787">[2025-08 → 2026-01]  SDE Intern @ Nomura    — Spring Boot · Jenkins · Autosys · RBAC</text>
-<text class="l4" x="24" y="160" fill="#7EE787">[2024-10 → 2025-01]  SDE Intern @ Reliance  — DSFA · Hurst-exponent valve stiction</text>
-<text class="l5" x="24" y="184"><tspan fill="#FF7B72">dhrishit</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">vit</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#C9D1D9">cat research.bib | head -1</tspan></text>
-<text class="l6" x="24" y="208" fill="#8B949E">IEEE Xplore :: Vision Transformers vs CNNs on OCT scans</text>
-<text class="l7" x="24" y="232"><tspan fill="#FF7B72">dhrishit</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">vit</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#C9D1D9">kubectl get interests</tspan></text>
-<text class="l8" x="24" y="256" fill="#8B949E">microservices   cloud-infra   distributed-systems   ml-medical-imaging</text>
-<text class="l9" x="24" y="280"><tspan fill="#FF7B72">dhrishit</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">vit</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#C9D1D9">echo $STATUS</tspan></text>
-<text class="l10" x="24" y="304" fill="#00D9FF">open_to=[SDE, Backend, DevOps, collaborations]  ✔</text>
-<rect class="cur" x="453" y="290" width="9" height="17" fill="#00D9FF"/>
+<text x="430.0" y="22" fill="#8B949E" text-anchor="middle" style="font-size:12px">dhrishit@ucd: ~ — zsh</text>
+<text class="l0" x="24" y="64"><tspan fill="#FF7B72">dhrishit</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">ucd</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#C9D1D9">whoami</tspan></text>
+<text class="l1" x="24" y="88" fill="#8B949E">dhrishit-seal :: MSc Computer Science @ University College Dublin  (Dublin, IE)</text>
+<text class="l2" x="24" y="112"><tspan fill="#FF7B72">dhrishit</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">ucd</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#C9D1D9">cat education.log</tspan></text>
+<text class="l3" x="24" y="136" fill="#7EE787">[2026-09 → 2027-08]  MSc CS (Negotiated Learning)  @ UCD</text>
+<text class="l4" x="24" y="160" fill="#7EE787">[2022-10 → 2026-05]  B.Tech CSE (Health Informatics) @ VIT Bhopal  · CGPA 8.25</text>
+<text class="l5" x="24" y="184"><tspan fill="#FF7B72">dhrishit</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">ucd</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#C9D1D9">cat experience.log</tspan></text>
+<text class="l6" x="24" y="208" fill="#7EE787">[2025-08 → 2026-01]  SDE Intern @ Nomura    — Spring Boot · Jenkins CI/CD · Autosys · JUnit</text>
+<text class="l7" x="24" y="232" fill="#7EE787">[2024-10 → 2025-01]  SDE Intern @ Reliance  — DSFA · Hurst exponent · 390K-sample OP/PV logs</text>
+<text class="l8" x="24" y="256"><tspan fill="#FF7B72">dhrishit</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">ucd</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#C9D1D9">cat research.bib | head -1</tspan></text>
+<text class="l9" x="24" y="280" fill="#8B949E">IEEE Xplore :: ViT vs CNN for retinal disease detection (CNV, DME, Drusen) on OCT</text>
+<text class="l10" x="24" y="304"><tspan fill="#FF7B72">dhrishit</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">ucd</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#C9D1D9">echo $STATUS</tspan></text>
+<text class="l11" x="24" y="328" fill="#00D9FF">open_to=[SWE-intern, SDE-intern]  from=2027-05  mode=[remote, on-site:IE/Dublin]  ✔</text>
+<rect class="cur" x="746" y="314" width="9" height="17" fill="#00D9FF"/>
 <g clip-path="url(#win)"><rect class="scan" x="0" y="0" width="860" height="40" fill="url(#sc)"/></g>
 </svg>

@@ -6,20 +6,21 @@ OUT = os.path.dirname(os.path.abspath(__file__)) + "/"
 # ---------- terminal ----------
 lines = [
   ("prompt", "whoami"),
-  ("out",    "dhrishit-seal :: final-year B.Tech CSE (Health Informatics) @ VIT Bhopal"),
+  ("out",    "dhrishit-seal :: MSc Computer Science @ University College Dublin  (Dublin, IE)"),
+  ("prompt", "cat education.log"),
+  ("ok",     "[2026-09 → 2027-08]  MSc CS (Negotiated Learning)  @ UCD"),
+  ("ok",     "[2022-10 → 2026-05]  B.Tech CSE (Health Informatics) @ VIT Bhopal  · CGPA 8.25"),
   ("prompt", "cat experience.log"),
-  ("ok",     "[2025-08 → 2026-01]  SDE Intern @ Nomura    — Spring Boot · Jenkins · Autosys · RBAC"),
-  ("ok",     "[2024-10 → 2025-01]  SDE Intern @ Reliance  — DSFA · Hurst-exponent valve stiction"),
+  ("ok",     "[2025-08 → 2026-01]  SDE Intern @ Nomura    — Spring Boot · Jenkins CI/CD · Autosys · JUnit"),
+  ("ok",     "[2024-10 → 2025-01]  SDE Intern @ Reliance  — DSFA · Hurst exponent · 390K-sample OP/PV logs"),
   ("prompt", "cat research.bib | head -1"),
-  ("out",    "IEEE Xplore :: Vision Transformers vs CNNs on OCT scans"),
-  ("prompt", "kubectl get interests"),
-  ("out",    "microservices   cloud-infra   distributed-systems   ml-medical-imaging"),
+  ("out",    "IEEE Xplore :: ViT vs CNN for retinal disease detection (CNV, DME, Drusen) on OCT"),
   ("prompt", "echo $STATUS"),
-  ("hl",     "open_to=[SDE, Backend, DevOps, collaborations]  ✔"),
+  ("hl",     "open_to=[SWE-intern, SDE-intern]  from=2027-05  mode=[remote, on-site:IE/Dublin]  ✔"),
 ]
 W, LH, TOP, LEFT, CW = 860, 24, 64, 24, 8.6
 H = TOP + LH * len(lines) + 14
-CYCLE = 22.0
+CYCLE = 24.0
 colors = {"prompt": "#C9D1D9", "out": "#8B949E", "ok": "#7EE787", "hl": "#00D9FF"}
 
 css, body = [], []
@@ -36,7 +37,7 @@ for i, (kind, txt) in enumerate(lines):
     t += dur + (0.25 if typed else 0.15)
     if kind == "prompt":
         body.append(f'<text class="l{i}" x="{LEFT}" y="{y}"><tspan fill="#FF7B72">dhrishit</tspan>'
-                    f'<tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">vit</tspan>'
+                    f'<tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">ucd</tspan>'
                     f'<tspan fill="#8B949E">:~$ </tspan><tspan fill="{colors[kind]}">{escape(txt)}</tspan></text>')
     else:
         body.append(f'<text class="l{i}" x="{LEFT}" y="{y}" fill="{colors[kind]}">{escape(txt)}</text>')
@@ -49,7 +50,7 @@ css.append(f".cur{{animation:blink 1s steps(1) infinite,show {CYCLE}s linear inf
            f"@keyframes show{{0%,{appear:.2f}%{{opacity:0}}{appear+0.1:.2f}%,96%{{opacity:1}}100%{{opacity:0}}}}")
 
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Animated terminal introducing Dhrishit Seal">
-<title>dhrishit@vit — zsh</title>
+<title>dhrishit@ucd — zsh</title>
 <style>
 text{{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;font-size:14px;white-space:pre}}
 .glow{{animation:glow 4s ease-in-out infinite}}@keyframes glow{{50%{{stroke-opacity:.25}}}}
@@ -65,7 +66,7 @@ text{{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;fo
 <rect class="glow" x="1" y="1" width="{W-2}" height="{H-2}" rx="12" fill="none" stroke="url(#bd)" stroke-width="2"/>
 <rect x="1" y="1" width="{W-2}" height="34" rx="12" fill="#161B22"/><rect x="1" y="24" width="{W-2}" height="11" fill="#161B22"/>
 <circle cx="22" cy="18" r="6" fill="#FF5F56"/><circle cx="42" cy="18" r="6" fill="#FFBD2E"/><circle cx="62" cy="18" r="6" fill="#27C93F"/>
-<text x="{W/2}" y="22" fill="#8B949E" text-anchor="middle" style="font-size:12px">dhrishit@vit: ~ — zsh</text>
+<text x="{W/2}" y="22" fill="#8B949E" text-anchor="middle" style="font-size:12px">dhrishit@ucd: ~ — zsh</text>
 {chr(10).join(body)}
 <rect class="cur" x="{cursor_x:.0f}" y="{last_y-14}" width="9" height="17" fill="#00D9FF"/>
 <g clip-path="url(#win)"><rect class="scan" x="0" y="0" width="{W}" height="40" fill="url(#sc)"/></g>

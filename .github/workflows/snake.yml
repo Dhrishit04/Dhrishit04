@@ -16,6 +16,9 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -34,6 +37,11 @@ jobs:
       # replaces the whole `output` branch on every run.
       - name: Collect 3D graph into dist
         run: cp profile-3d-contrib/*.svg dist/
+
+      - name: Generate Activity Graph
+        run: python3 scripts/activity_graph.py Dhrishit04 dist/activity-graph.svg 31
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
