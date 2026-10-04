@@ -131,15 +131,6 @@ const dhrishit: Developer = {
 </details>
 
 <details>
-<summary><b>✅ TaskFlow</b> 🔒 — task & project management for developer workflows <i>(private repo)</i></summary>
-
-<br/>
-
-- **Stack:** `React` `TypeScript` `Node.js` `PostgreSQL`
-
-</details>
-
-<details>
 <summary><b>💸 Expense Tracker</b> — categorised spending analytics & trends</summary>
 
 <br/>
