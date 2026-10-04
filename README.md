@@ -1,20 +1,30 @@
+<!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<!-- Animated Typing Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0D2137,100:00D9FF&height=220&section=header&text=Dhrishit%20Seal&fontSize=64&fontColor=00D9FF&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20%E2%80%A2%20DevOps%20%E2%80%A2%20Distributed%20Systems&descAlignY=60&descSize=18" />
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dhrishit+Seal+%F0%9F%91%8B;Final+Year+CSE+%40+VIT+Bhopal;Full+Stack+%2B+DevOps+Engineer;Microservices+%7C+Cloud+%7C+IoT;Building+Things+That+Scale+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=650&lines=Hey+there%2C+I'm+Dhrishit+Seal+%F0%9F%91%8B;Final+Year+CSE+%40+VIT+Bhopal;SDE+Intern+%40+Nomura+%7C+Reliance;Full+Stack+%2B+DevOps+Engineer;Microservices+%7C+Cloud+%7C+IoT;Building+Things+That+Scale+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<!-- Animated Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D2137,100:00D9FF&height=120&section=header&text=&fontSize=0&animation=fadeIn" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Dhrishit04&color=00d9ff&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Dhrishit04?label=FOLLOWERS&style=flat-square&color=A371F7&logo=github" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-27C93F?style=flat-square&logo=rocket&logoColor=white" />
+</p>
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
 ## 🧑‍💻 About Me
+
+<div align="center">
+  <img src="./assets/terminal.svg" width="100%" alt="Animated terminal: whoami, experience, research, interests" />
+</div>
+
+<details>
+<summary><b>📜 Prefer it as code? Click to expand</b></summary>
 
 ```typescript
 const dhrishit: Developer = {
@@ -29,134 +39,160 @@ const dhrishit: Developer = {
 };
 ```
 
----
+</details>
 
-## 🚀 Projects
+<img src="./assets/divider.svg" width="100%" />
 
-### 🏆 [Tournament Tracker](https://github.com/Dhrishit04/Tournament-Tracker) &nbsp;·&nbsp; [Tournament Tracker Pro](https://github.com/Dhrishit04/Tournament_Tracker_Pro)
+## 💼 Experience
 
-> Full-stack sports tournament management platform — battle-tested live with **200+ concurrent users, zero downtime**.
+<img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=7EE787&vCenter=true&width=300&height=30&lines=%3E+excel+%E2%86%92+db+pipeline...+%E2%9C%94;%3E+manual+effort%3A+100%25+%E2%86%92+0%25;%3E+issue+resolution%3A+-10%25" />
+
+**🏦 SDE Intern · Nomura Services India Pvt. Ltd.** &nbsp;`Aug 2025 – Jan 2026`
+> Engineered a Spring Boot microservice automating end-to-end financial data loading from Excel to DB via Jenkins + Autosys, replacing a 100% manual workflow. Led RBAC implementation and backend development for the internal Budgeting application. Operated in Agile sprints, cutting issue resolution time by 10%.
+
+**🏭 SDE Intern · Reliance Industries Limited** &nbsp;`Oct 2024 – Jan 2025`
+> Applied Dynamic Slow Feature Algorithm (DSFA) for OP/PV data reconstruction in industrial control systems. Developed a Hurst exponent approach to detect valve stiction, validated through numerical simulations robust to noise and non-linear dynamics.
+
+<img src="./assets/divider.svg" width="100%" />
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Dhrishit04/Tournament-Tracker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhrishit04&repo=Tournament-Tracker&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" /></a>
+<a href="https://github.com/Dhrishit04/Tournament_Tracker_Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhrishit04&repo=Tournament_Tracker_Pro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" /></a>
+<a href="https://github.com/Dhrishit04/HealthSim"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhrishit04&repo=HealthSim&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" /></a>
+<a href="https://github.com/Dhrishit04/MyFER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhrishit04&repo=MyFER&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" /></a>
+<a href="https://github.com/Dhrishit04/My_Medisage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhrishit04&repo=My_Medisage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" /></a>
+<a href="https://github.com/Dhrishit04/taskflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhrishit04&repo=taskflow&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" /></a>
+
+</div>
+
+<details open>
+<summary><b>🏆 Tournament Tracker / Tournament Tracker Pro</b> — 200+ concurrent users, zero downtime</summary>
+
+<br/>
+
+> Full-stack sports tournament management platform, tested live under real load.
 
 - **Real-time sync** via Firestore snapshot listeners for live match updates & global broadcasts
 - **Granular RBAC** with Firebase Auth + Firestore security rules across 3 admin tiers with full audit logging
 - **Bulk ingestion** via Excel pipeline, season lifecycle management, responsive admin command center
 - **Stack:** `Next.js` `React` `TypeScript` `Firestore` `Firebase Auth` `Tailwind CSS` `Framer Motion`
 
----
+</details>
 
-### 🏥 [HealthSim](https://github.com/Dhrishit04/HealthSim)
+<details>
+<summary><b>🏥 HealthSim</b> — software-based IoT health monitoring with dynamic risk assessment</summary>
 
-> Software-based IoT health monitoring platform with dynamic risk assessment — minimal stack, maximum insight.
+<br/>
 
 - Synthetic vital stream generation with `NumPy` / `Pandas`, ingested via a `Flask` REST API into `SQLite`
 - `scikit-learn` driven risk analytics; visualised via `Recharts` / `Victory` on a React frontend
 - **Stack:** `Python` `Flask` `React` `SQLite` `scikit-learn` `NumPy` `Pandas`
 
----
+</details>
 
-### 😶 [MyFER](https://github.com/Dhrishit04/MyFER)
+<details>
+<summary><b>😶 MyFER</b> — real-time facial expression recognition</summary>
 
-> Facial Expression Recognition system leveraging deep learning for real-time emotion detection.
+<br/>
 
+- Deep-learning pipeline for live emotion detection from a webcam feed
 - **Stack:** `Python` `OpenCV` `TensorFlow / Keras` `React`
 
----
+</details>
 
-### 💊 [My Medisage](https://github.com/Dhrishit04/My_Medisage)
+<details>
+<summary><b>💊 My Medisage</b> — patient & prescription workflow platform</summary>
 
-> Medical management platform for streamlined patient & prescription workflows.
+<br/>
 
 - **Stack:** `React` `Node.js` `Express` `MongoDB`
 
----
+</details>
 
-### ✅ [TaskFlow](https://github.com/Dhrishit04/taskflow)
+<details>
+<summary><b>✅ TaskFlow</b> — task & project management for developer workflows</summary>
 
-> Opinionated task & project management tool built for developer workflows.
+<br/>
 
 - **Stack:** `React` `TypeScript` `Node.js` `PostgreSQL`
 
----
+</details>
 
-### 💸 [Expense Tracker](https://github.com/Dhrishit04/Expense-Tracker)
+<details>
+<summary><b>💸 Expense Tracker</b> — categorised spending analytics & trends</summary>
 
-> Personal finance tracker with categorisation, analytics, and spending trends.
+<br/>
 
-- **Stack:** `React` `Node.js` `Express` `MongoDB`
+- [Repository](https://github.com/Dhrishit04/Expense-Tracker) · **Stack:** `React` `Node.js` `Express` `MongoDB`
 
----
+</details>
 
-## 📡 Currently Learning
-
-<div align="center">
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-> Exploring distributed systems design — event streaming with Kafka, container orchestration with Kubernetes, and in-memory caching strategies with Redis.
-
-</div>
-
----
+<img src="./assets/divider.svg" width="100%" />
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=A371F7&center=true&vCenter=true&width=500&height=30&lines=Languages+%E2%86%92+Frameworks+%E2%86%92+Databases+%E2%86%92+DevOps" />
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br/>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<b>Languages</b><br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css&theme=dark" />
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<b>Frameworks & Libraries</b><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,flask,tailwind&theme=dark" />
+
+<b>Databases</b><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,sqlite&theme=dark" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="48" />
+
+<b>DevOps & Tools</b><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,gitlab,jenkins,figma&theme=dark" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" />
 
 </div>
 
----
-
-## 📊 GitHub Stats
+## 📡 Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dhrishit04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhrishit04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="180" />
+<img src="https://skillicons.dev/icons?i=kafka,kubernetes,redis,django&theme=dark" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=900&color=8B949E&center=true&vCenter=true&width=700&height=30&lines=event+streaming+with+Kafka;container+orchestration+with+Kubernetes;in-memory+caching+strategies+with+Redis;distributed+systems+design+%E2%80%94+one+partition+at+a+time" />
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dhrishit04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhrishit04&layout=donut-vertical&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="180" />
+<img src="https://streak-stats.demolab.com/?user=Dhrishit04&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="180" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhrishit04&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhrishit04&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=A371F7&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&custom_title=Contribution%20Activity" />
 
 <br/><br/>
 
-<!-- Contribution Snake Animation — requires GitHub Actions setup (see note below) -->
+<!-- 3D contribution skyline (generated by .github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhrishit04/Dhrishit04/output/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhrishit04/Dhrishit04/output/profile-gitblock.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/Dhrishit04/Dhrishit04/output/profile-night-rainbow.svg" width="100%" />
+</picture>
+
+<br/><br/>
+
+<!-- Contribution snake (generated by .github/workflows/snake.yml) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dhrishit04/Dhrishit04/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dhrishit04/Dhrishit04/output/github-contribution-grid-snake.svg" />
@@ -165,7 +201,7 @@ const dhrishit: Developer = {
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" />
 
 ## 🏅 Achievements & Certifications
 
@@ -174,39 +210,20 @@ const dhrishit: Developer = {
 - 🎓 **HTML, CSS & JavaScript for Web Developers** — Johns Hopkins University
 - 🎓 **Introduction to Relational Database and SQL** — Coursera
 
----
-
-## 💼 Experience
-
-**SDE Intern · Nomura Services India Pvt. Ltd.** `Aug 2025 – Jan 2026`
-> Engineered a Spring Boot microservice automating end-to-end financial data loading from Excel to DB via Jenkins + Autosys, replacing a 100% manual workflow. Led RBAC implementation and backend development for the internal Budgeting application. Operated in Agile sprints, cutting issue resolution time by 10%.
-
-**SDE Intern · Reliance Industries Limited** `Oct 2024 – Jan 2025`
-> Applied Dynamic Slow Feature Algorithm (DSFA) for OP/PV data reconstruction in industrial control systems. Developed a Hurst exponent approach to detect valve stiction, validated through numerical simulations robust to noise and non-linear dynamics.
-
----
+<img src="./assets/divider.svg" width="100%" />
 
 ## 📬 Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhrishit-seal-b5a959251)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sealdhrishit@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhrishit04)
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0D2137,100:0D1117&height=100&section=footer&animation=fadeIn" />
-
-<img src="https://komarev.com/ghpvc/?username=Dhrishit04&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" />
+<a href="https://www.linkedin.com/in/dhrishit-seal-b5a959251"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sealdhrishit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Dhrishit04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&height=30&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%94+John+Johnson" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0D2137,100:0D1117&height=120&section=footer&animation=twinkling" />
 
 </div>

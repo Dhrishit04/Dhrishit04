@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Profile Animations
 
 on:
   schedule:
@@ -23,6 +23,17 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Dhrishit04
+
+      # Both outputs must live in the same build dir: the pages action
+      # replaces the whole `output` branch on every run.
+      - name: Collect 3D graph into dist
+        run: cp profile-3d-contrib/*.svg dist/
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
