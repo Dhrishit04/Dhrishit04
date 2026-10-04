@@ -39,7 +39,7 @@ text{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;fon
 <text class="l8" x="24" y="256"><tspan fill="#FF7B72">dhrishit</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">ucd</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#C9D1D9">cat research.bib | head -1</tspan></text>
 <text class="l9" x="24" y="280" fill="#8B949E">IEEE Xplore :: ViT vs CNN for retinal disease detection (CNV, DME, Drusen) on OCT</text>
 <text class="l10" x="24" y="304"><tspan fill="#FF7B72">dhrishit</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#D2A8FF">ucd</tspan><tspan fill="#8B949E">:~$ </tspan><tspan fill="#C9D1D9">echo $STATUS</tspan></text>
-<text class="l11" x="24" y="328" fill="#00D9FF">open_to=[SWE-intern, SDE-intern]  from=2027-05  mode=[remote, on-site]  ✔</text>
-<rect class="cur" x="660" y="314" width="9" height="17" fill="#00D9FF"/>
+<text class="l11" x="24" y="328" fill="#00D9FF">open_to=[SWE-intern, SDE-intern]  from=2027-05  mode=[remote, on-site:IE/Dublin]  ✔</text>
+<rect class="cur" x="746" y="314" width="9" height="17" fill="#00D9FF"/>
 <g clip-path="url(#win)"><rect class="scan" x="0" y="0" width="860" height="40" fill="url(#sc)"/></g>
 </svg>

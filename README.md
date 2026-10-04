@@ -10,7 +10,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Dhrishit04&color=00d9ff&style=flat-square&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/Dhrishit04?label=FOLLOWERS&style=flat-square&color=A371F7&logo=github" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-SWE%20%2F%20SDE%20INTERNSHIPS%20%C2%B7%20MAY%202027%20%C2%B7%20REMOTE%20%7C%20ON--SITE-27C93F?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-SWE%20%2F%20SDE%20INTERNSHIPS%20%C2%B7%20MAY%202027%20%C2%B7%20REMOTE%20%7C%20ON--SITE%20DUBLIN%20%2F%20IRELAND-27C93F?style=flat-square&logo=rocket&logoColor=white" />
 </p>
 
 </div>
@@ -37,7 +37,7 @@ const dhrishit: Developer = {
   interests:  ["Microservices", "Backend Systems", "DevOps", "AI Agents", "ML on Medical Imaging"],
   experience: ["SDE Intern @ Nomura Services India", "SDE Intern @ Reliance Industries"],
   published:  "IEEE Xplore — ViT vs CNN on OCT Scans",
-  openTo:     { roles: ["SWE Intern", "SDE Intern"], from: "May 2027", mode: ["Remote", "On-site"] },
+  openTo:     { roles: ["SWE Intern", "SDE Intern"], from: "May 2027", mode: ["Remote", "On-site (Ireland, ideally Dublin)"] },
 };
 ```
 
@@ -195,9 +195,9 @@ const dhrishit: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kafka,redis,django&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq,redis&theme=dark" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=900&color=8B949E&center=true&vCenter=true&width=700&height=30&lines=event+streaming+with+Kafka;in-memory+caching+strategies+with+Redis;distributed+systems+design+%E2%80%94+one+partition+at+a+time" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=900&color=8B949E&center=true&vCenter=true&width=700&height=30&lines=event+streaming+with+Kafka;message+queuing+%26+routing+with+RabbitMQ;in-memory+caching+strategies+with+Redis;distributed+systems+design+%E2%80%94+one+partition+at+a+time" />
 
 </div>
 
@@ -251,7 +251,7 @@ const dhrishit: Developer = {
 
 <div align="center">
 
-**🎯 Looking for SWE / SDE internships from May 2027, remote or on-site. Let's talk!**
+**🎯 Looking for SWE / SDE internships from May 2027, remote or on-site in Ireland (ideally Dublin). Let's talk!**
 
 <a href="https://www.linkedin.com/in/dhrishit-seal-b5a959251"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sealdhrishit@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
