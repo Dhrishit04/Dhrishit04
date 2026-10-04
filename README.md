@@ -49,12 +49,12 @@ const dhrishit: Developer = {
 
 <img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=600&color=7EE787&vCenter=true&width=300&height=30&lines=%3E+excel+%E2%86%92+db+pipeline...+%E2%9C%94;%3E+manual+effort%3A+100%25+%E2%86%92+0%25;%3E+390K+samples+analysed+%E2%9C%94" />
 
-**🏦 SDE Intern · Nomura Services India Pvt. Ltd.** · Mumbai &nbsp;`Aug 2025 – Jan 2026` &nbsp;[![Certificate](https://img.shields.io/badge/certificate-view-00D9FF?style=flat-square)](https://drive.google.com/file/d/1vpBrfY5c-H7POurO1ff2_bK8Hi77itBU/view?usp=sharing)
+**🏦 SDE Intern · Nomura Services India Pvt. Ltd.** · Mumbai &nbsp;`Aug 2025 – Jan 2026`
 - Built a **Spring Boot** microservice (Apache POI, Java Streams) that fully automates an end-to-end Excel → DB financial data pipeline, replacing a 100% manual workflow; shipped via **Jenkins CI/CD** to the UAT batch server with **Autosys** scheduling and email integration
 - Led backend development of the internal Budgeting application: RESTful API design, migrating a static menu to a DB-driven dynamic menu, and **RBAC** across UAT & DEV, covered by **JUnit & Mockito** suites
 - Worked in target-driven Agile sprints, contributing to sprint planning and cutting issue resolution time
 
-**🏭 SDE Intern · Reliance Industries Limited** · Navi Mumbai &nbsp;`Oct 2024 – Jan 2025` &nbsp;[![Certificate](https://img.shields.io/badge/certificate-view-00D9FF?style=flat-square)](https://drive.google.com/file/d/1vloW7jAe-W6EUpPGPiOAFrepfadoj_2z/view?usp=sharing)
+**🏭 SDE Intern · Reliance Industries Limited** · Navi Mumbai &nbsp;`Oct 2024 – Jan 2025`
 - Preprocessed and reconstructed controller output (OP) and process variable (PV) data to extract slow features using the **Dynamic Slow Feature Analysis (DSFA)** algorithm, improving signal precision and visualisation fidelity
 - Validated noise robustness through numerical simulations on 18 months of process-control logs (**~390K samples** at 2-min intervals)
 - Wrote a reusable Python script that runs daily (24h) on Jamnagar plant data streams, using DSFA + the **Hurst exponent** to detect and visualise valve stiction
