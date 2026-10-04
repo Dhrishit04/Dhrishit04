@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="14" viewBox="0 0 900 14" role="img" aria-label="divider">
+<defs>
+<linearGradient id="g" x1="0" x2="900" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+<stop offset="0" stop-color="#0D1117" stop-opacity="0"/><stop offset=".25" stop-color="#00D9FF"/>
+<stop offset=".5" stop-color="#A371F7"/><stop offset=".75" stop-color="#00D9FF"/><stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="900 0" dur="5s" repeatCount="indefinite"/>
+</linearGradient>
+<radialGradient id="dot"><stop offset="0" stop-color="#fff"/><stop offset=".35" stop-color="#00D9FF"/><stop offset="1" stop-color="#00D9FF" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="0" y="6" width="900" height="2" rx="1" fill="url(#g)"/>
+<circle cy="7" r="7" fill="url(#dot)"><animate attributeName="cx" values="-10;910" dur="3.5s" repeatCount="indefinite"/></circle>
+</svg>
