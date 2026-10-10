@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Dhrishit04 contributions over the last 31 days">
+<style>
+text{font-family:"Segoe UI",Ubuntu,"Helvetica Neue",sans-serif;fill:#8B949E;font-size:11px}
+.ln{stroke-dasharray:1270;stroke-dashoffset:1270;animation:draw 2.6s ease-out .3s forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.ar{opacity:0;animation:fade 1.2s ease-out 1.8s forwards}@keyframes fade{to{opacity:1}}
+.pt{opacity:0;transform-box:fill-box;transform-origin:center}
+@keyframes pop{from{opacity:0;transform:scale(0)}to{opacity:1;transform:scale(1)}}
+@keyframes pulse{50%{r:7;fill-opacity:.35}}
+</style>
+<defs><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00D9FF" stop-opacity=".35"/><stop offset="1" stop-color="#00D9FF" stop-opacity="0"/></linearGradient></defs>
+<rect width="900" height="300" rx="10" fill="#0D1117"/>
+<text x="450.0" y="30" text-anchor="middle" style="font-size:18px;font-weight:600;fill:#00D9FF">Contribution Activity · last 31 days · 23 total</text>
+<line x1="50" x2="875" y1="255.0" y2="255.0" stroke="#21262D" stroke-dasharray="3 4"/>
+<text x="40" y="259.0" text-anchor="end">0</text>
+<line x1="50" x2="875" y1="205.0" y2="205.0" stroke="#21262D" stroke-dasharray="3 4"/>
+<text x="40" y="209.0" text-anchor="end">3</text>
+<line x1="50" x2="875" y1="155.0" y2="155.0" stroke="#21262D" stroke-dasharray="3 4"/>
+<text x="40" y="159.0" text-anchor="end">6</text>
+<line x1="50" x2="875" y1="105.0" y2="105.0" stroke="#21262D" stroke-dasharray="3 4"/>
+<text x="40" y="109.0" text-anchor="end">9</text>
+<line x1="50" x2="875" y1="55.0" y2="55.0" stroke="#21262D" stroke-dasharray="3 4"/>
+<text x="40" y="59.0" text-anchor="end">12</text>
+<text x="50.0" y="275" text-anchor="middle">10 Sep</text>
+<text x="132.5" y="275" text-anchor="middle">13 Sep</text>
+<text x="215.0" y="275" text-anchor="middle">16 Sep</text>
+<text x="297.5" y="275" text-anchor="middle">19 Sep</text>
+<text x="380.0" y="275" text-anchor="middle">22 Sep</text>
+<text x="462.5" y="275" text-anchor="middle">25 Sep</text>
+<text x="545.0" y="275" text-anchor="middle">28 Sep</text>
+<text x="627.5" y="275" text-anchor="middle">01 Oct</text>
+<text x="710.0" y="275" text-anchor="middle">04 Oct</text>
+<text x="792.5" y="275" text-anchor="middle">07 Oct</text>
+<text x="875.0" y="275" text-anchor="middle">10 Oct</text>
+<text x="14" y="155.0" transform="rotate(-90 14 155.0)" text-anchor="middle">contributions</text>
+<polygon class="ar" points="50,255 50.0,255.0 77.5,255.0 105.0,255.0 132.5,255.0 160.0,255.0 187.5,238.3 215.0,205.0 242.5,255.0 270.0,255.0 297.5,255.0 325.0,188.3 352.5,238.3 380.0,221.7 407.5,255.0 435.0,238.3 462.5,255.0 490.0,255.0 517.5,255.0 545.0,255.0 572.5,255.0 600.0,255.0 627.5,255.0 655.0,255.0 682.5,255.0 710.0,255.0 737.5,105.0 765.0,255.0 792.5,255.0 820.0,255.0 847.5,221.7 875.0,255.0 875,255" fill="url(#a)"/>
+<polyline class="ln" points="50.0,255.0 77.5,255.0 105.0,255.0 132.5,255.0 160.0,255.0 187.5,238.3 215.0,205.0 242.5,255.0 270.0,255.0 297.5,255.0 325.0,188.3 352.5,238.3 380.0,221.7 407.5,255.0 435.0,238.3 462.5,255.0 490.0,255.0 517.5,255.0 545.0,255.0 572.5,255.0 600.0,255.0 627.5,255.0 655.0,255.0 682.5,255.0 710.0,255.0 737.5,105.0 765.0,255.0 792.5,255.0 820.0,255.0 847.5,221.7 875.0,255.0" fill="none" stroke="#A371F7" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle class="pt" cx="50.0" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 0.30s forwards"><title>2026-09-10: 0</title></circle>
+<circle class="pt" cx="77.5" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 0.39s forwards"><title>2026-09-11: 0</title></circle>
+<circle class="pt" cx="105.0" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 0.47s forwards"><title>2026-09-12: 0</title></circle>
+<circle class="pt" cx="132.5" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 0.56s forwards"><title>2026-09-13: 0</title></circle>
+<circle class="pt" cx="160.0" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 0.65s forwards"><title>2026-09-14: 0</title></circle>
+<circle class="pt" cx="187.5" cy="238.3" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 0.73s forwards"><title>2026-09-15: 1</title></circle>
+<circle class="pt" cx="215.0" cy="205.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 0.82s forwards"><title>2026-09-16: 3</title></circle>
+<circle class="pt" cx="242.5" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 0.91s forwards"><title>2026-09-17: 0</title></circle>
+<circle class="pt" cx="270.0" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 0.99s forwards"><title>2026-09-18: 0</title></circle>
+<circle class="pt" cx="297.5" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 1.08s forwards"><title>2026-09-19: 0</title></circle>
+<circle class="pt" cx="325.0" cy="188.3" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 1.17s forwards"><title>2026-09-20: 4</title></circle>
+<circle class="pt" cx="352.5" cy="238.3" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 1.25s forwards"><title>2026-09-21: 1</title></circle>
+<circle class="pt" cx="380.0" cy="221.7" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 1.34s forwards"><title>2026-09-22: 2</title></circle>
+<circle class="pt" cx="407.5" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 1.43s forwards"><title>2026-09-23: 0</title></circle>
+<circle class="pt" cx="435.0" cy="238.3" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 1.51s forwards"><title>2026-09-24: 1</title></circle>
+<circle class="pt" cx="462.5" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 1.60s forwards"><title>2026-09-25: 0</title></circle>
+<circle class="pt" cx="490.0" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 1.69s forwards"><title>2026-09-26: 0</title></circle>
+<circle class="pt" cx="517.5" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 1.77s forwards"><title>2026-09-27: 0</title></circle>
+<circle class="pt" cx="545.0" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 1.86s forwards"><title>2026-09-28: 0</title></circle>
+<circle class="pt" cx="572.5" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 1.95s forwards"><title>2026-09-29: 0</title></circle>
+<circle class="pt" cx="600.0" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 2.03s forwards"><title>2026-09-30: 0</title></circle>
+<circle class="pt" cx="627.5" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 2.12s forwards"><title>2026-10-01: 0</title></circle>
+<circle class="pt" cx="655.0" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 2.21s forwards"><title>2026-10-02: 0</title></circle>
+<circle class="pt" cx="682.5" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 2.29s forwards"><title>2026-10-03: 0</title></circle>
+<circle class="pt" cx="710.0" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 2.38s forwards"><title>2026-10-04: 0</title></circle>
+<circle class="pt" cx="737.5" cy="105.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 2.47s forwards, pulse 1.6s ease-in-out 3.2s infinite"><title>2026-10-05: 9</title></circle>
+<circle class="pt" cx="765.0" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 2.55s forwards"><title>2026-10-06: 0</title></circle>
+<circle class="pt" cx="792.5" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 2.64s forwards"><title>2026-10-07: 0</title></circle>
+<circle class="pt" cx="820.0" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 2.73s forwards"><title>2026-10-08: 0</title></circle>
+<circle class="pt" cx="847.5" cy="221.7" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 2.81s forwards"><title>2026-10-09: 2</title></circle>
+<circle class="pt" cx="875.0" cy="255.0" r="3.5" fill="#FFFFFF" stroke="#A371F7" stroke-width="1.5" style="animation:pop .35s ease-out 2.90s forwards"><title>2026-10-10: 0</title></circle>
+</svg>
